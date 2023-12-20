@@ -9,7 +9,7 @@ For the latest Melissa National ZIP+4 release notes, please visit:
 ## Tested Environments
 - Windows 11 64-bit .NET Runtimes 7.0, Powershell 5.1
 - Ubuntu Linux 22.04.3 LTS 64-bit .NET 7.0
-- Melissa National ZIP+4 for 2023-10
+- Melissa National ZIP+4 for 2023-12
 
 ## Getting started
 
